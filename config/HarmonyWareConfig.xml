@@ -1,7 +1,7 @@
 <HarmonyWareConfig>
 <Tier1>
 <name>Platinum</name>
-<value>75-100</value>
+<score>75-100</score>
 <Setting>
 <key>optOut</key>
 <value/>
@@ -50,7 +50,7 @@
 </Tier1>
 <Tier2>
 <name>Silver</name>
-<value>45-74</value>
+<score>45-74</score>
 <Setting>
 <key>optOut</key>
 <value/>
@@ -99,7 +99,7 @@
 </Tier2>
 <Tier3>
 <name>Silver</name>
-<value>0-44</value>
+<score>0-44</score>
 <Setting>
 <key>optOut</key>
 <value/>
